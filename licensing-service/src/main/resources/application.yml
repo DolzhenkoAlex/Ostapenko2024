@@ -1,0 +1,13 @@
+
+
+spring:
+  application:
+    name:
+      licensing-service
+  #profiles:
+    #active:
+      #dev
+
+  mvc:
+    static-path-pattern: /static/**
+
